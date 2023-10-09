@@ -1,0 +1,10 @@
+var x = 10;
+var y = 2;
+document.write("x = ", x,"<br>");
+document.write("y = ", y,"<br>");
+document.write("<br>");
+document.write("Hasil Hitung : ","<br>");
+document.write("x + y = ", x + y, "<br>");
+document.write("x * y = ", x * y, "<br>");
+document.write("x - y = ", x - y, "<br>");
+document.write("x / y = ", x / y);
